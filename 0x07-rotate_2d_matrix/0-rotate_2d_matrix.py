@@ -21,4 +21,4 @@ def rotate_2d_matrix(m):
 
             m[j][i] = temp1
 
-        n -= 1
+        x -= 1
