@@ -4,7 +4,7 @@
 
 def rotate_2d_matrix(m):
     """Arranges and Rotates a matrix in-place"""
-    
+
     x = len(m)
     temp1, temp2 = 0, 0
 
